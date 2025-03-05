@@ -1,0 +1,12 @@
+name: Shiny_Cambio_Climatico
+title: Shiny_Cambio_Climatico
+username: odsfull
+account: odsfull
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14164988
+bundleId: 9896357
+url: https://odsfull.shinyapps.io/Shiny_Cambio_Climatico/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
